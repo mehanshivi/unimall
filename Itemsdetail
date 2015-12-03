@@ -1,0 +1,22 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int a=10;
+int b=20;
+int c=30;
+int d=40;
+int e=50;
+printf("discount is 20 %"" &a);
+printf("discount is 30 %"" &b);
+printf("discount is 40 %"" &c);
+printf("discount is 50 %"" &d);
+printf("discount is 60 %"" &e);
+string c="Cosmetics";
+String cl="clothes";
+printf("discount is 20 %"" &c);
+printf("discount is 20 %"" &cl);
+
+
+  }
+      
